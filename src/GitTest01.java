@@ -8,6 +8,7 @@ public class GitTest01 {
         System.out.println("master git1");
         System.out.println("master git1");
         System.out.println("master git1");
+        System.out.println("sencond-branch git change");
 
     }
 }
